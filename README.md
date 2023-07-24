@@ -1,24 +1,10 @@
-# README
+# 概要
+新規投稿したり投稿を編集したりする際に、選択した画像がプレビューとして表示される機能のミニアプリ<br>
+<br>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**新規投稿機能の挙動**
+- 画像を選択するとプレビューが表示される
+- 一度選択した画像を選び直すこともできる
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[![Image from Gyazo](https://i.gyazo.com/5610b99757fa5d0cefc577547936a9e0.gif)](https://gyazo.com/5610b99757fa5d0cefc577547936a9e0)
